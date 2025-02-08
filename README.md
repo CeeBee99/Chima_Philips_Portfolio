@@ -48,12 +48,17 @@ cd your-portfolio
 
 3. Open index.html in your browser.
 
-Next Steps
+Next Steps:
+
 Add more projects to portfolio.html.
+
 Integrate Google Analytics for visitor tracking.
+
 Improve page speed by optimizing assets.
 
-Contact Information
+Contact Information:
 Email: cbphilips00@gmail.com/chphilip@iu.edu
+
 LinkedIn: Chima Philips
+
 GitHub: CeeBee99

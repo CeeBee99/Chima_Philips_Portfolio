@@ -2,7 +2,7 @@
 
 ## Live Demo
 **Website:** file:///C:/Users/cbphi/Downloads/my-portfolio/index.html 
-**GitHub Repository:** [https://github.com/yourusername/your-portfolio](https://github.com/yourusername/your-portfolio)
+**GitHub Repository:** (https://github.com/CeeBee99/Chima_Philips_Portfolio)
 
 ## About This Project
 This is my personal **portfolio website**, designed to showcase my projects, skills, and contact information. The site is built with:
